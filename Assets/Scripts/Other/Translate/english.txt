@@ -1,0 +1,20 @@
+Click:Click;
+Sec:Sec;
+Shop:Shop;
+Upgrade:Upgrade;
+Level:Level;
+PerClick:per click;
+PerSec:per second;
+Now:now;
+Enhance:Enhance;
+TranscendTitle:After enhancing you will get;
+TranscendUpDiscount:upgrades discount;
+TranscendBossHP:boss HP;
+TranscendEarnEggs:earn eggs on click and per second;
+TranscendBossDmg:boss damage;
+TranscendWarning:Everything will be <color=red>lost</color>!
+Only souls, enhance bonuses and sword with a ring will remain;
+Price:Price;
+Damage:Damage;
+Time:Time;
+Free:Free;

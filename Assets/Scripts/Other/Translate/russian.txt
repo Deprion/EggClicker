@@ -1,0 +1,20 @@
+Click:Клик;
+Sec:Сек;
+Shop:Магазин;
+Upgrade:Улучшить;
+Level:Уровень;
+PerClick:за клик;
+PerSec:в секунду;
+Now:сейчас;
+Enhance:Усилить;
+TranscendTitle:После усиления вы получите;
+TranscendUpDiscount:скидка на улучшения;
+TranscendBossHP:ХП боссов;
+TranscendEarnEggs:яиц за клик и в секунду;
+TranscendBossDmg:урон по боссам;
+TranscendWarning:Все будет <color=red>утеряно</color>!
+Останутся лишь души, бонусы усиления и меч с кольцом;
+Price:Цена;
+Damage:Урон;
+Time:Время;
+Free:Бесплатно;
